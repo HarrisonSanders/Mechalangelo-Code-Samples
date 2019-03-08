@@ -2,7 +2,7 @@
 Code Samples from Mechalangelo, a Unity + Steam VR asymmetrical multiplayer game.
 All scripts are my own design, unless otherwise noted in a comment.
 
-The bulk of my scripting work on Mechalangelo included:
+Some of my scripting work on Mechalangelo included:
 - A controller and shooter controls for a 3rd-person spaceship
 - Powerup functionality
 - Spawner systems
